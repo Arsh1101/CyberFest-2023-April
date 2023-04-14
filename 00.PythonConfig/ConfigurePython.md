@@ -48,7 +48,7 @@ Let me show you how: 😎
 6. Share your script and venv config: 😊  
 **Unix based + Windows**  
 Create  a file with **'.py'** extension start your journey as a Python developer!  
-*In the same directory there is a folder named 'letsBeFake', open it, please.!*
+*In the same '01.PythonBasics' section there is a directory named 'letsBeFake', open it, please.!*
 ---
 ***Like any software, keep your 'pip' up to date!*** 📅  
 **Unix based**  
