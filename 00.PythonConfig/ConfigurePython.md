@@ -16,7 +16,7 @@
 
 Let me show you how: 😎
 
-1. Ask Python gently to create and virtual environment wherever you want: 🤫  
+1. Ask Python gently to create an virtual environment wherever you want: 🤫  
 **Unix based**  
 `python -m venv wow`  
 **Windows**  
